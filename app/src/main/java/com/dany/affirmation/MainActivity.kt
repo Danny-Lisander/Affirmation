@@ -1,9 +1,9 @@
 package com.dany.affirmation
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import android.support.v7.widget.RecyclerView
 import android.widget.TextView
+import androidx.appcompat.app.AppCompatActivity
+import androidx.recyclerview.widget.RecyclerView
 import com.dany.affirmation.adapter.ItemAdapter
 import com.dany.affirmation.data.Datasource
 
